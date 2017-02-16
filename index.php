@@ -2,4 +2,4 @@
 
 <img src='/images/kittens.jpg' alt='Adorable Cat??? Not on a computer'>
 
-<a href='http://wikipedia.org/kittens'>Learn about kittens on Wikipedia</a>
+<a href='https://en.wikipedia.org/wiki/Kitten'>Learn about kittens on Wikipedia</a>
